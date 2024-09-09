@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My ID Card</string>
+    <string name="name">Mamunur Roshid</string>
+    <string name="phone">01793232510</string>
+    <string name="email">mamunur.stu2019@juniv.edu</string>
+    <string name="facebook">https://www.facebook.com/MamunurRoshid517</string>
+    <string name="linkedin">https://www.linkedin.com/in/mamunurroshid517/</string>
+    <string name="github">https://github.com/mamunurRoshid14</string>
+</resources>
